@@ -1,0 +1,186 @@
+2021-07-14 19:59:02,752 : INFO : root : DB connected
+2021-07-14 19:59:02,752 : INFO : root : DB connected
+2021-07-14 19:59:02,752 : INFO : root : DB connected
+2021-07-14 19:59:02,767 : INFO : root : DB connected
+2021-07-14 19:59:02,767 : INFO : root : DB connected
+2021-07-14 19:59:02,767 : INFO : root : DB connected
+2021-07-14 19:59:02,783 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:02,783 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:02,783 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:02,923 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:02,923 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:02,923 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:02,923 : INFO : root : <Response [404]>
+2021-07-14 19:59:02,923 : INFO : root : <Response [404]>
+2021-07-14 19:59:02,923 : INFO : root : <Response [404]>
+2021-07-14 19:59:02,923 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 19:59:02,923 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 19:59:02,923 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 19:59:39,927 : INFO : root : DB connected
+2021-07-14 19:59:39,927 : INFO : root : DB connected
+2021-07-14 19:59:39,927 : INFO : root : DB connected
+2021-07-14 19:59:39,958 : INFO : root : DB connected
+2021-07-14 19:59:39,958 : INFO : root : DB connected
+2021-07-14 19:59:39,958 : INFO : root : DB connected
+2021-07-14 19:59:39,958 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:39,958 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:39,958 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 19:59:40,083 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:40,083 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:40,083 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 404 None
+2021-07-14 19:59:40,099 : INFO : root : <Response [404]>
+2021-07-14 19:59:40,099 : INFO : root : <Response [404]>
+2021-07-14 19:59:40,099 : INFO : root : <Response [404]>
+2021-07-14 19:59:40,099 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 19:59:40,099 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 19:59:40,099 : INFO : root : {'msg': 'Add Book operation failed, looks like the book already exists'}
+2021-07-14 20:00:51,589 : INFO : root : DB connected
+2021-07-14 20:00:51,589 : INFO : root : DB connected
+2021-07-14 20:00:51,589 : INFO : root : DB connected
+2021-07-14 20:00:51,854 : INFO : root : DB connected
+2021-07-14 20:00:51,854 : INFO : root : DB connected
+2021-07-14 20:00:51,854 : INFO : root : DB connected
+2021-07-14 20:00:51,870 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:00:51,870 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:00:51,870 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:00:52,057 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:00:52,057 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:00:52,057 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:00:52,057 : INFO : root : <Response [200]>
+2021-07-14 20:00:52,057 : INFO : root : <Response [200]>
+2021-07-14 20:00:52,057 : INFO : root : <Response [200]>
+2021-07-14 20:00:52,057 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3490'}
+2021-07-14 20:00:52,057 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3490'}
+2021-07-14 20:00:52,057 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3490'}
+2021-07-14 20:01:23,103 : INFO : root : DB connected
+2021-07-14 20:01:23,103 : INFO : root : DB connected
+2021-07-14 20:01:23,103 : INFO : root : DB connected
+2021-07-14 20:01:23,291 : INFO : root : DB connected
+2021-07-14 20:01:23,291 : INFO : root : DB connected
+2021-07-14 20:01:23,291 : INFO : root : DB connected
+2021-07-14 20:01:23,306 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:01:23,306 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:01:23,306 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:01:23,447 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:01:23,447 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:01:23,447 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:01:23,447 : INFO : root : <Response [200]>
+2021-07-14 20:01:23,447 : INFO : root : <Response [200]>
+2021-07-14 20:01:23,447 : INFO : root : <Response [200]>
+2021-07-14 20:01:23,447 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3491'}
+2021-07-14 20:01:23,447 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3491'}
+2021-07-14 20:01:23,447 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3491'}
+2021-07-14 20:01:23,447 : INFO : root : add book is working fine
+2021-07-14 20:01:23,447 : INFO : root : add book is working fine
+2021-07-14 20:01:23,447 : INFO : root : add book is working fine
+2021-07-14 20:01:23,447 : INFO : root : test_addbook passed
+2021-07-14 20:01:23,447 : INFO : root : test_addbook passed
+2021-07-14 20:01:23,447 : INFO : root : test_addbook passed
+2021-07-14 20:14:35,225 : INFO : root : DB connected
+2021-07-14 20:14:35,225 : INFO : root : DB connected
+2021-07-14 20:14:35,225 : INFO : root : DB connected
+2021-07-14 20:15:42,204 : INFO : root : DB connected
+2021-07-14 20:15:42,204 : INFO : root : DB connected
+2021-07-14 20:15:42,204 : INFO : root : DB connected
+2021-07-14 20:18:53,869 : INFO : root : DB connected
+2021-07-14 20:18:53,869 : INFO : root : DB connected
+2021-07-14 20:18:53,869 : INFO : root : DB connected
+2021-07-14 20:18:53,931 : INFO : root : DB connected
+2021-07-14 20:18:53,931 : INFO : root : DB connected
+2021-07-14 20:18:53,931 : INFO : root : DB connected
+2021-07-14 20:18:54,118 : INFO : root : DB connected
+2021-07-14 20:18:54,118 : INFO : root : DB connected
+2021-07-14 20:18:54,118 : INFO : root : DB connected
+2021-07-14 20:18:54,150 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:18:54,150 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:18:54,150 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:18:54,306 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:18:54,306 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:18:54,306 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:18:54,306 : INFO : root : <Response [200]>
+2021-07-14 20:18:54,306 : INFO : root : <Response [200]>
+2021-07-14 20:18:54,306 : INFO : root : <Response [200]>
+2021-07-14 20:18:54,306 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3492'}
+2021-07-14 20:18:54,306 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3492'}
+2021-07-14 20:18:54,306 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3492'}
+2021-07-14 20:18:54,306 : INFO : root : add book is working fine
+2021-07-14 20:18:54,306 : INFO : root : add book is working fine
+2021-07-14 20:18:54,306 : INFO : root : add book is working fine
+2021-07-14 20:18:54,306 : INFO : root : test_addbook passed
+2021-07-14 20:18:54,306 : INFO : root : test_addbook passed
+2021-07-14 20:18:54,306 : INFO : root : test_addbook passed
+2021-07-14 20:19:02,716 : INFO : root : DB connected
+2021-07-14 20:19:02,716 : INFO : root : DB connected
+2021-07-14 20:19:02,716 : INFO : root : DB connected
+2021-07-14 20:19:02,732 : INFO : root : DB connected
+2021-07-14 20:19:02,732 : INFO : root : DB connected
+2021-07-14 20:19:02,732 : INFO : root : DB connected
+2021-07-14 20:19:02,841 : INFO : root : DB connected
+2021-07-14 20:19:02,841 : INFO : root : DB connected
+2021-07-14 20:19:02,841 : INFO : root : DB connected
+2021-07-14 20:19:02,841 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:19:02,841 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:19:02,841 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 20:19:02,982 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:19:02,982 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:19:02,982 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 20:19:02,982 : INFO : root : <Response [200]>
+2021-07-14 20:19:02,982 : INFO : root : <Response [200]>
+2021-07-14 20:19:02,982 : INFO : root : <Response [200]>
+2021-07-14 20:19:02,982 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3493'}
+2021-07-14 20:19:02,982 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3493'}
+2021-07-14 20:19:02,982 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid3493'}
+2021-07-14 20:19:02,982 : INFO : root : add book is working fine
+2021-07-14 20:19:02,982 : INFO : root : add book is working fine
+2021-07-14 20:19:02,982 : INFO : root : add book is working fine
+2021-07-14 20:19:02,982 : INFO : root : test_addbook passed
+2021-07-14 20:19:02,982 : INFO : root : test_addbook passed
+2021-07-14 20:19:02,982 : INFO : root : test_addbook passed
+2021-07-14 21:57:25,574 : INFO : root : DB connected
+2021-07-14 21:57:25,574 : INFO : root : DB connected
+2021-07-14 21:57:25,574 : INFO : root : DB connected
+2021-07-14 21:57:25,605 : INFO : root : DB connected
+2021-07-14 21:57:25,605 : INFO : root : DB connected
+2021-07-14 21:57:25,605 : INFO : root : DB connected
+2021-07-14 21:57:25,902 : INFO : root : DB connected
+2021-07-14 21:57:25,902 : INFO : root : DB connected
+2021-07-14 21:57:25,902 : INFO : root : DB connected
+2021-07-14 21:57:25,995 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 21:57:25,995 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 21:57:25,995 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 21:57:26,121 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 21:57:26,121 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 21:57:26,121 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 21:57:26,136 : INFO : root : <Response [200]>
+2021-07-14 21:57:26,136 : INFO : root : <Response [200]>
+2021-07-14 21:57:26,136 : INFO : root : <Response [200]>
+2021-07-14 21:57:26,136 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34102'}
+2021-07-14 21:57:26,136 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34102'}
+2021-07-14 21:57:26,136 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34102'}
+2021-07-14 21:57:26,136 : INFO : root : add book is working fine
+2021-07-14 21:57:26,136 : INFO : root : add book is working fine
+2021-07-14 21:57:26,136 : INFO : root : add book is working fine
+2021-07-14 21:57:26,136 : INFO : root : test_addbook passed
+2021-07-14 21:57:26,136 : INFO : root : test_addbook passed
+2021-07-14 21:57:26,136 : INFO : root : test_addbook passed
+2021-07-14 22:23:55,374 : INFO : root : DB connected
+2021-07-14 22:23:55,374 : INFO : root : DB connected
+2021-07-14 22:23:55,374 : INFO : root : DB connected
+2021-07-14 22:23:55,405 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 22:23:55,405 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 22:23:55,405 : DEBUG : urllib3.connectionpool : Starting new HTTP connection (1): 216.10.245.166:80
+2021-07-14 22:23:55,546 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 22:23:55,546 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 22:23:55,546 : DEBUG : urllib3.connectionpool : http://216.10.245.166:80 "POST /Library/Addbook.php HTTP/1.1" 200 None
+2021-07-14 22:23:55,546 : INFO : root : <Response [200]>
+2021-07-14 22:23:55,546 : INFO : root : <Response [200]>
+2021-07-14 22:23:55,546 : INFO : root : <Response [200]>
+2021-07-14 22:23:55,561 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34119'}
+2021-07-14 22:23:55,561 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34119'}
+2021-07-14 22:23:55,561 : INFO : root : {'Msg': 'successfully added', 'ID': 'bnid34119'}
+2021-07-14 22:23:55,561 : INFO : root : add book is working fine
+2021-07-14 22:23:55,561 : INFO : root : add book is working fine
+2021-07-14 22:23:55,561 : INFO : root : add book is working fine
+2021-07-14 22:23:55,561 : INFO : root : test_addbook passed
+2021-07-14 22:23:55,561 : INFO : root : test_addbook passed
+2021-07-14 22:23:55,561 : INFO : root : test_addbook passed
